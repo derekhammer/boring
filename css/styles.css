@@ -1,14 +1,33 @@
-h2.intro{
-  font-style: italic;
-  text-decoration: underline;
+.details{
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
 }
 
-p.intro{
-font-size: 10px;
+.intro{
+font-size: 20px;
 color: gray;
+text-align: center;
+font-style: italic;
 }
 
 img.intro{
 width: 500px;
-margin-left: 400px;
+margin-left: 500px;
+}
+
+.special{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-color: yellow;
+}
+
+h1{
+  text-align: center;
+}
+.heading{
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
 }
