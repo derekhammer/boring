@@ -1,0 +1,14 @@
+h2.intro{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+p.intro{
+font-size: 10px;
+color: gray;
+}
+
+img.intro{
+width: 500px;
+margin-left: 400px;
+}
